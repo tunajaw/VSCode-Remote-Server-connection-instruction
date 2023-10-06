@@ -3,6 +3,7 @@ VSCode Remote Server connection instruction - 2023/10
 
 ### Steps
 Step1. Setting remote server: https://hackmd.io/@brick9450/vscode-remote
+
 Step2. Install Anaconda: https://cloud.tencent.com/developer/article/2063049
 
 
