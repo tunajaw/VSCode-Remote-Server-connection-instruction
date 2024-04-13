@@ -19,3 +19,11 @@ https://stackoverflow.com/questions/59978826/why-ssh-connection-timed-out-in-vsc
 4. git@github.com: Permission denied (publickey) -> https://cloud.tencent.com/developer/article/1775620 (但複製.pub 時直接cat然後複製)
 
 
+### sftp transmits files
+
+1. sftp user@[host ip]
+    
+    ex. sftp [tunajaw@140.113.240.123](mailto:tunajaw@140.113.240.123)
+    
+2. put -r [local path] [remote path]
+3. get -t [remote path] [local path]
